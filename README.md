@@ -1,0 +1,2 @@
+# RRCComponentizationDemo
+用于掌邮组件化的一个测试demo
